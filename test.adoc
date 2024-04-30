@@ -1,0 +1,62 @@
+= *Cahier des charges utilisateur*
+
+[cols="1,1", options="header"]
+|===
+| Version | Date
+
+| V1 | 12 mai 2023 
+|===
+
+
+*Équipe :* 1A1 
+[cols="1,1,1,1"]
+|===
+|Pablo MARQUET | Chris ACHE | Nelson FRANCE | Maxime PEYBERNES
+|===
+
+== DailyBank
+
+= Sommaire
+
+
+* link:PresProj[Présentation du projet]
+* link:Obj[Objectifs]
+* link:IdUtil[Identification des utilisateurs]
+* link:AnaExis[Analyse de l'existant]
+* link:AnaBes[Analyse du besoin]
+* link:Liv[Livrables]
+* link:AnaCont[Analyse des contraintes]
+
+= anchor:bookmark-PresProj[] Présentation du projet 
+
+BLAH
+
+
+= anchor:bookmark-Obj[] Objectifs
+
+BLAH
+
+
+= anchor:bookmark-IdUtil[] Indetification des utilisateurs
+
+BLAH
+
+
+= anchor:bookmark-AnaExis[] Analyse de l'existant
+
+BLAH
+
+
+= anchor:bookmark-AnaBes[] Analyse du besoin
+
+BLAH
+
+
+= anchor:bookmark-Liv[] Livrables
+
+BLAH
+
+
+= anchor:bookmark-AnaCont[] Analyse des contraintes
+
+BLAH
