@@ -14,7 +14,7 @@
 |Pablo MARQUET | Chris ACHE | Nelson FRANCE | Maxime PEYBERNES
 |===
 
-== DailyBank
+=== DailyBank
 
 = Sommaire
 
