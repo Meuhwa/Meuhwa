@@ -30,7 +30,7 @@
 [[PresProj]]
 = Présentation du projet 
 
-BLAH
+Ce projet a pour but de réaliser une application Java qui puisse gérer les comptes des clients d’une banque. Il est cadré par 2 SAE distinctes : la S2.05 (gestion de projet) et la S2.01 (développement d’application). Dans ce cadre, nous avons à réaliser, au-delà du développement et des documents qui y sont liés, des rendus liés à la gestion de notre temps (gantt), des tâches à réaliser (issues sur GitHub) et sur le projet en lui-même (cahier des charges). 
 
 [[Obj]]
 = Objectifs
